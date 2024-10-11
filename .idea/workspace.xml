@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="236caf92-c31d-41ab-9182-4fa67719d633" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posHU2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HalloJavaMitForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="236caf92-c31d-41ab-9182-4fa67719d633" name="Changes" comment="Added Class &quot;NumberTester&quot; + required methods">
+      <change beforePath="$PROJECT_DIR$/src/NumberTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,6 +47,35 @@
       <option name="presentableId" value="Default" />
       <updated>1728578387979</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Class &quot;HalloJavaMitForEach&quot;">
+      <created>1728579735162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728579735162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed &quot;Beispiel 2&quot;">
+      <created>1728579902632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728579902632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Interface &quot;NumberTest&quot;">
+      <created>1728580424967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728580424967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Class &quot;NumberTester&quot; + required methods">
+      <created>1728580635807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728580635807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +88,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Class &quot;HalloJavaMitForEach&quot;" />
+    <MESSAGE value="Completed &quot;Beispiel 2&quot;" />
+    <MESSAGE value="Added Interface &quot;NumberTest&quot;" />
+    <MESSAGE value="Added Class &quot;NumberTester&quot; + required methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Class &quot;NumberTester&quot; + required methods" />
   </component>
 </project>
