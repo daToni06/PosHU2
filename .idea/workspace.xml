@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="236caf92-c31d-41ab-9182-4fa67719d633" name="Changes" comment="Added Class &quot;NumberTester&quot; + required methods">
-      <change beforePath="$PROJECT_DIR$/src/NumberTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberTester.java" afterDir="false" />
+    <list default="true" id="236caf92-c31d-41ab-9182-4fa67719d633" name="Changes" comment="Added Method-Logic for &quot;testFile()&quot; in Class &quot;NumberTester&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728580635807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Method-Logic for &quot;testFile()&quot; in Class &quot;NumberTester&quot;">
+      <created>1728626656654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728626656654</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +101,7 @@
     <MESSAGE value="Completed &quot;Beispiel 2&quot;" />
     <MESSAGE value="Added Interface &quot;NumberTest&quot;" />
     <MESSAGE value="Added Class &quot;NumberTester&quot; + required methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Class &quot;NumberTester&quot; + required methods" />
+    <MESSAGE value="Added Method-Logic for &quot;testFile()&quot; in Class &quot;NumberTester&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Method-Logic for &quot;testFile()&quot; in Class &quot;NumberTester&quot;" />
   </component>
 </project>
